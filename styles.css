@@ -8,8 +8,8 @@ nav {
     background-color: salmon;
     color: navy;
     list-style-type: none;
-    padding: 0;
-    margin: 0;    
+    padding: 3;
+    margin: 3;    
 }
 
 .topnav a {
