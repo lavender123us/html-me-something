@@ -1,0 +1,60 @@
+body {
+    background-color: pink;
+    color: navy;
+}
+
+
+nav {
+    background-color: salmon;
+    color: navy;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;    
+}
+
+.topnav a {
+    float: left;
+    color: darkblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+    background-color: lightpink;
+    color: black;    
+}
+
+.topnav a:active {
+    background-color: lightsalmon;
+    color: lightblue;
+}
+
+
+li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+img {
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    border-radius: 100px;
+
+}
+
+
+figure {
+    width: 33.3%:
+    padding: 3px;
+    display: inline-block;
+    /* text-align: center; */
+}
+
+/* .pointer {
+    cursor: pointer;
+} */
