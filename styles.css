@@ -9,11 +9,7 @@ nav {
     color: navy;
     list-style-type: none;
     padding: 3;
-<<<<<<< HEAD:html-me-something/styles.css
-    margin: 3;
-=======
     margin: 3;    
->>>>>>> 30ce8c19dc2d750ed0ef4ca9c184b6a6e9593a3e:styles.css
 }
 
 .topnav a {
@@ -53,7 +49,7 @@ img {
 
 
 figure {
-    width: 33.3%:
+    width: 33.3%;
     padding: 3px;
     display: inline-block;
     /* text-align: center; */
