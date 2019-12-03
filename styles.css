@@ -8,8 +8,8 @@ nav {
     background-color: salmon;
     color: navy;
     list-style-type: none;
-    padding: 3;
-    margin: 3;    
+    padding: 0;
+    margin: 0;    
 }
 
 .topnav a {
@@ -23,7 +23,7 @@ nav {
 
 .topnav a:hover {
     background-color: lightpink;
-    color: black;
+    color: black;    
 }
 
 .topnav a:active {
